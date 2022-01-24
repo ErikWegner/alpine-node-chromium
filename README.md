@@ -25,6 +25,8 @@ If you're interested into actual Karma configuration, it looks like:
 
 ### • Image tags
 
+- erikwegner/alpine-node-chromium:16-alpine (based on: node:16-alpine)
+- erikwegner/alpine-node-chromium:14-alpine (based on: node:14-alpine)
 - rastasheep/alpine-node-chromium:8-alpine (based on: node:8-alpine)
 - rastasheep/alpine-node-chromium:7-alpine (based on: node:7-alpine)
 - rastasheep/alpine-node-chromium:6-alpine (based on: node:6-alpine)
